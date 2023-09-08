@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 # deployed app:
-reactjs-flashcards-abk.netlify.app
+https://reactjs-flashcards-abk.netlify.app/
